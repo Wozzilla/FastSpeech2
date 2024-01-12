@@ -116,5 +116,5 @@ Please inform me if you find any mistakes in this repo, or any useful tips to tr
 - [xcmyz's FastSpeech implementation](https://github.com/xcmyz/FastSpeech)
 - [TensorSpeech's FastSpeech 2 implementation](https://github.com/TensorSpeech/TensorflowTTS)
 - [rishikksh20's FastSpeech 2 implementation](https://github.com/rishikksh20/FastSpeech2)
-- [Investigating on Incorporating Pretrained and Learnable Speaker Representations for Multi-Speaker Multi-Style Text-to-Speech](https://arxiv.org/abs/2103.04088)
+- [Investigating on Incorporating Pretrained and Learnable Speaker Representations for Multi-Speaker Multi-Style Text-to-Speech](https://arxiv.org/abs/2103.04088), C. Chien, *et al*.
 
